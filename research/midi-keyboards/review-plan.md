@@ -14,16 +14,21 @@
 | P2 | **知乎、贴吧、小红书** | 中文使用细节、入手数月后的吐槽、桌面摆位 | 广告软文及重复复制内容多，单独证据等级偏低 |
 | 技术核验 | **品牌官网、PDF 手册、支持论坛、固件日志** | 键数、尺寸、端口、软件包、DAW 支持、已修复的问题 | 官方营销口径仅适合作为规格依据，不能证明实际手感 |
 
+## 第一轮结果
+
+详见 [已核查的测评证据与筛选结论](review-findings.md)；其中包含对同代型号、样机赞助披露、历史固件缺陷的逐条核验。
+
 ## 已定位的首批测评 / 用户反馈
 
 1. [MusicRadar: Launchkey MK4 25/37 实测](https://www.musicradar.com/music-tech/midi-controllers/launchkeys-are-a-reminder-that-sometimes-a-keyboard-is-still-what-you-need-even-with-ableton-live-novation-launchkey-mk4-25-and-37-review)（2024-11-26）。明确讨论 37 键合成器键床、pads、DAW 控制，也提出不支持 37 键分区及 OLED 反馈的问题。**本条直接覆盖目标 37 键型号。**
 2. [MusicTech: Launchkey Mini 25 MK4 实测](https://musictech.com/reviews/controllers/novation-launchkey-mini-25-mk4-review/)（2024-11-18）。可参考同代 Mini 系列交互设计，**不能直接把 25 键键床体验转述为 37 键测试**。
-3. [Gearnews: Arturia KeyStep 37 mk2 评测](https://www.gearnews.com/arturia-keystep-37-mk-2-review-synths/)（2026-02-26）。提到 OLED、Mutate/Spice、更丰富的音序控制，也指出某些原有实体直达操作减少、旋钮不具触摸感应等不足。
-4. [Reddit: Launchkey Mini 37 MK4 与 MiniLab 37 琴键/旋钮比较](https://www.reddit.com/r/Novation/comments/1wum8wx/launchkey_mini_37_mk4_how_are_the_knobs_and_keybed/)（2026-10）。有实际拥有者评论、比较和问题；**注意有部分回复者还没买，两者必须区分**。
+3. [SoundGuys: Launchkey Mini **37** MK4 真机实测](https://www.soundguys.com/novation-launchkey-mini-mk4-37-review-132486/)（2025-02-07）。两周实测，披露由 Novation 提供样机；这是更直接的 37 键参考。
+4. [Gearnews: Arturia KeyStep 37 mk2 评测](https://www.gearnews.com/arturia-keystep-37-mk-2-review-synths/)（2026-02-26）。提到 OLED、Mutate/Spice、更丰富的音序控制，也指出某些原有实体直达操作减少、旋钮不具触摸感应等不足。
+7. [Reddit: Launchkey Mini 37 MK4 与 MiniLab 37 琴键/旋钮比较](https://www.reddit.com/r/Novation/comments/1wum8wx/launchkey_mini_37_mk4_how_are_the_knobs_and_keybed/)（2026-10）。有实际拥有者评论、比较和问题；**注意有部分回复者还没买，两者必须区分**。
 5. [Reddit: 同样考虑紧凑键盘用于 Cubase 的用户](https://www.reddit.com/r/midi/comments/1vy3zbs/midi_controller_recommendation_for_a_pull_out/)（2026-08）。具体比较 MiniLab 37 与 Launchkey 37 MK4 的键床、pads、推子与轮子；仅作为用户观点。
 6. [Reddit: 个人对多个 37 键键床的长期探索](https://www.reddit.com/r/midi/comments/1gxjao3)（2024-11）。有演奏手感的具体经历，但涉及早代 KeyStep/Launchkey，**用于提出测试维度，不能继承旧代评价**。
-7. [B 站搜索结果：Launchkey](https://search.bilibili.com/all?keyword=Launchkey) 中已定位 2025-01-19「垢教授」《功能很多，也略有遗憾——Launchkey MK4》（15:22），以及「大飞music」的 MK4 37 键实机视频。需要逐个打开原视频核实内容、款式和合作披露。
-8. [Novation 官方用户指南](https://userguides.novationmusic.com/hc/zh-cn/articles/27612220463762-Launchkey-37%E7%9A%84%E8%A7%84%E6%A0%BC) 是 DAW 操作与按键区别的一手技术资料。
+8. [B 站搜索结果：Launchkey](https://search.bilibili.com/all?keyword=Launchkey) 中已定位 2025-01-19「垢教授」《功能很多，也略有遗憾——Launchkey MK4》（15:22），以及「大飞music」的 MK4 37 键实机视频。需要逐个打开原视频核实内容、款式和合作披露。
+9. [Novation 官方用户指南](https://userguides.novationmusic.com/hc/zh-cn/articles/27612220463762-Launchkey-37%E7%9A%84%E8%A7%84%E6%A0%BC) 是 DAW 操作与按键区别的一手技术资料。
 
 ## 每个型号都要追问
 
