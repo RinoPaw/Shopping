@@ -33,6 +33,14 @@
 - **AKAI MPK Mini Plus 初代**：与新版分开，若出现优质二手再研究（当前不询价）。
 - **M-Audio Oxygen Pro Mini、Komplete Kontrol M32、Korg microKEY2-37、Nektar Impact LX Mini**：暂时优先级较低；并未因为官方硬规格直接淘汰。
 
+## 补充发现但未进入主短名单
+
+- **Arturia KeyStep Pro**：37 键、宽 589 mm（离上限只有 6 mm），带触后和四轨独立音序。更适合多台外部设备协调；其余接口和布线净空要另核。
+- **Arturia AstroLab 37**：37 键、宽 515 mm，具有键床触后和内置声音引擎，是能独立发声的硬件合成器。若未来确定想做不依赖 DAW 的创作，可单独升级研究优先级。
+- **iRig Keys 2 Pro**：37 键全尺寸，但授权代理列出的 605 mm 已超过 595 mm 上限，暂硬性淘汰。
+
+上述信息已加入 [候选全集](candidates.md)，不会在缺少对应工作流需求时挤占主要 3–5 款名额。
+
 ## 目前证据能支持什么？
 
 - MiniLab 37 有两份中文实际操作测评、The Verge 独立评论及原厂脚本；总体评价较积极，但与 Launchkey 同场 A/B 的力度对比仍不足。
