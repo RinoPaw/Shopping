@@ -25,6 +25,14 @@
 
 用户已自行登录 B 站；已将测评视频播放器静音（muted=true、volume=0）。B 站官方播放器 API 可返回 AI 字幕和章节；现已读取垢教授本期完整自动字幕，整理成[带时间码的详细使用记录](review-launchkey-37-mk4-bilibili.md)。有关其他视频的观看状态仍维持待查。注意自动字幕术语错字，不应未经核实逐字引用。
 
+## 新增已取到完整 AI 字幕的视频
+
+- [肖闻 Xiaowenn：MiniLab 37（2026-06-24）](review-minilab-37-bilibili.md)：完整字幕和视频章节已核查，录入琴键、打击垫、推子、CC 映射及缺点。
+- [ZiyiOnline：MiniLab 37（2026-09-14）](review-minilab-37-bilibili.md)：完整字幕已核查，录入力度、Analog Lab/Ableton Live 演示及缺点。
+- [大飞music：Launchkey 37 MK4（2026-05-11）](review-launchkey-37-mk4-bilibili.md)：完整字幕已核查，录入两周使用体验；对琴键的感受与垢教授不同。
+
+上述仅通过官方 AI 字幕和公开页面分析，暂未逐字人工听写；完整音频未作声音品质与力度量化评估。所有结论均为意译。
+
 ## 已经读到的作者直接观点
 
 垢教授《功能很多，也略有遗憾——Launchkey MK4》，2025-01-19，视频描述：
