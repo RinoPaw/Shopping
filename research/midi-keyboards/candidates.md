@@ -1,6 +1,8 @@
-# MIDI 键盘候选（第 1 轮：只选型号，不比较价格）
+# MIDI 键盘候选全集（型号阶段，不比较价格）
 
 更新：2026-10-24
+
+**最新筛选结果优先看 [shortlist.md](shortlist.md)**：目前 3 款优先试弹 + 2 款条件保留；此文件继续保留全量候选供追溯。
 
 ## 使用约束
 
@@ -58,7 +60,7 @@
 
 ## 初轮测评结论
 
-请先阅读 [review-findings.md](review-findings.md)。优先实测 MiniLab 37 / Launchkey 37 MK4 / Launchkey Mini 37 MK4 的琴键与 DAW 工作流；FLkey 2 37、KeyStep 37 mk2、AKAI MPK Mini Plus II、SMK-37 Pro 暂按用途和缺陷证据保留，**暂不比较价格**。
+已形成 [3 款优先试弹、2 款条件保留的短名单](shortlist.md)：MiniLab 37、Launchkey 37 MK4、KeyStep 37 mk2 优先；FLkey 2 37 和 Launchkey Mini 37 MK4 按 DAW 与空间需求保留。见 [次级候选反馈](review-secondary-candidates.md)、[FL Studio/Cubase 实际映射资料](daw-fl-cubase.md)。AKAI 新品和 SMK-37 Pro 暂在观察名单，**不比较价格**。
 
 ## 下一步
 
