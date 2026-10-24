@@ -14,6 +14,7 @@
 - [MiniLab 37：两份中文测评及时间码](research/midi-keyboards/review-minilab-37-bilibili.md)
 - [第二梯队候选及用户长期反馈](research/midi-keyboards/review-secondary-candidates.md)
 - [FL Studio / Cubase 控制脚本与映射支持](research/midi-keyboards/daw-fl-cubase.md)
+- [断线恢复、B 站字幕质量复核与最新测评来源](research/midi-keyboards/review-retry-evidence-qc.md)
 
 ## 工作顺序
 
