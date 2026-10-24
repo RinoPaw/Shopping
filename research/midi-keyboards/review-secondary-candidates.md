@@ -43,6 +43,8 @@
 - 官方网站和社区整理能交叉核实 **V016 已发布且说明有修复**；不能保证所有批次当前固件已升级，也不能声称所有 note 丢失和异常完全消失。
 - 2026 年 10 月有第三方自定义固件实验与刷机故障报告。对普通购物代理来说，**不建议把第三方刷机能力计入设备价值，也无需让用户尝试改固件**。
 
+**新增 B 站证据**：[新杭qwq《SMK-37 Pro 功能概览》](https://www.bilibili.com/video/BV11WtdzHEZ6/) 2025-08-12，视频中披露厂家寄送样机，演示内置 FM 音源、屏幕和弦显示、独立音序器、16 pads 及 USB 相关使用。技术功能可参考，但由于商业关系和拍摄时间均先于 V016，**不视为当前固件质量/稳定性的独立测评**。见 [重试质检报告](review-retry-evidence-qc.md)。
+
 **当前判断**：**低成本方案但带明确固件验证项**。必须确认目标设备实际 firmware version，并做 USB MIDI note-on 连续触发与 UI 切换测试；缺乏稳定实测之前不进入首选。
 
 ## 4. AKAI MPK Mini Plus II
@@ -60,5 +62,5 @@
 - 三种琴键类型：Launchkey 37 全尺寸、MiniLab 37 slim、Launchkey Mini/AKAI mini。应在同一钢琴 VST 下先比较键距、黑键靠内侧的触发、轻/重力度与和弦连贯性。
 - 实体演奏重于“广告功能多少”。预先设定的用户目标是**旋律和和弦输入、编曲**，所以在可容纳全尺寸 37 键时，应优先评估实际琴键可控性。
 - 当前 Windows FL Studio/Cubase 控制能力，请结合 [daw-fl-cubase.md](daw-fl-cubase.md)；实际阶段继续以 [test-protocol.md](test-protocol.md) 为准。
-- 本轮从网络核对原始资料。B 站上轮已登录并保证相关视频暂停静音，但本轮 Desktop Commander 执行接口间歇超时，未取得新的可验证完整视频内容，**不能写成已完整观看本轮候选视频**。
+- 2026-10-24 后续重试已恢复 Desktop Commander，且原 B 站页再次确认 **muted=true、volume=0、paused=true**。新增 [SMK-37 Pro 较早厂商送测视频的时间码，以及两条严重串台字幕的拒收记录](review-retry-evidence-qc.md)。自动字幕即使可下载也不能直接当作完整可信测评。
 - 待评价资料足够、明确 3–5 款短名单以后再核对淘宝、京东、拼多多、闲鱼的实际 SKU 与价格。
