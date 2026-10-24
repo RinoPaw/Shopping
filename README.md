@@ -4,6 +4,7 @@
 
 ## 当前研究
 
+- **[目前最优先：纯有线 USB、以琴键输入为核心的 ¥500 选型](research/midi-keyboards/keyboard-only-500.md)**（最新明确需求）
 - **[500 元价位的真实测评：琴键、鼓垫、系统兼容、故障与证据等级](research/midi-keyboards/reviews-under-500-2026-10-24.md)**（最新）
 - **[￥500 目标预算版：重新挑选国产新机与可接受的二手型号](research/midi-keyboards/budget-500.md)**（现行购买预算）
 - **[四平台商品报价与 SKU 验证台账](research/midi-keyboards/offers.md)**（价格阶段，优先更新）
