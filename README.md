@@ -4,6 +4,8 @@
 
 ## 当前研究
 
+- **[四平台商品报价与 SKU 验证台账](research/midi-keyboards/offers.md)**（价格阶段，优先更新）
+- **[零基础上手流程与两款主候选的使用门槛](research/midi-keyboards/beginner-workflow.md)**
 - **[研究完整性审计：已验证什么、缺什么、下一步先做什么](research/midi-keyboards/research-audit-2026-10-24.md)**
 - **[MIDI 键盘横向测评：各维度优缺点、其他产品落选理由](research/midi-keyboards/comparative-review-2026-10.md)**
 - **[当前第一版研究短名单（优先读）](research/midi-keyboards/shortlist.md)**
