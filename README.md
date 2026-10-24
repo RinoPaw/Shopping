@@ -4,6 +4,7 @@
 
 ## 当前研究
 
+- **[MIDI 键盘横向测评：各维度优缺点、其他产品落选理由](research/midi-keyboards/comparative-review-2026-10.md)**
 - **[当前第一版研究短名单（优先读）](research/midi-keyboards/shortlist.md)**
 - [MIDI 键盘候选名单](research/midi-keyboards/candidates.md)
 - [测评渠道与证据标准](research/midi-keyboards/review-plan.md)
