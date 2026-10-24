@@ -9,6 +9,10 @@
 - **KeyStep 37 mk2** 偏向 MIDI/CV 音符、Arp、外部音序，DAW 的轨道/插件深度控制需要另行映射；不要与 MiniLab 的专用 DAW 脚本混为一谈。
 - 所有“集成支持”只代表厂商文档。Windows 中真实识别、功能按键、插件参数映射及断开重连仍需按 [test-protocol.md](test-protocol.md) 验证。
 
+## 本轮加入的源代码级核查
+
+MiniLab 37 官方 FL Studio 脚本 1.4 已下载、只在临时目录静态查阅，结果见 [源代码审计](fl-studio-minilab37-script-audit.md)。它对 FL Studio 走带、浏览器操作及若干原生插件有专门分支；未识别的第三方 VST 不具有同等自动映射承诺。**4 个物理推子不等于默认同时控制 4 条混音轨道**。另请看 [Launchkey 与 MiniLab 的桌面及 DAW 任务对照](ergonomics-daw-comparison.md)。
+
 ## 精确型号对照
 
 | 型号 | FL Studio | Cubase | 关键限制 |
@@ -65,6 +69,11 @@
 - [Launchkey Mini 37 的同代入门介绍](https://userguides.novationmusic.com/hc/en-gb/articles/27441246154642-Introduction-to-the-Launchkey-Mini-37) **同样写有** Split/Layer。
 - 但 [Novation 原始产品发布介绍](https://novationmusic.com/articles/introducing-the-new-launchkey-the-creative-controller/) **明确限定 49/61 键型号有 Split/Layer**，MusicRadar 2024 实测也写过较小型号缺失。官方技术参考的部分功能还注明“only on SKUs having keyboard split”。
 - 因为2026版本的手册可能是统一模板或随固件功能改动，**目前必须标为官方资料冲突，不能据此向用户保证 37 键已支持键盘分区**。需要从固件发行记录、当前型号菜单或厂商客服得到具体确认。Chord Map 里的 'Split: Bass + Chord' 是**和弦垫演奏技巧**，概念不同于物理琴键分区。
+
+## 最新配置版本补充
+
+- Novation [Launchkey MK4 FL Studio 设置](https://support.novationmusic.com/hc/en-gb/articles/20499018257554-Launchkey-MK4-FL-Studio-Setup) 适用 FL Studio 24+；应先确保设备 firmware 最新。
+- Novation [Launchkey MK4 Cubase 设置](https://support.novationmusic.com/hc/en-gb/articles/20225881390482-Using-Launchkey-MK4-in-Cubase) 明确 Cubase 14.0.20+ 通常可自动识别而无需手动脚本安装。
 
 ## 未解决的实际问题
 
