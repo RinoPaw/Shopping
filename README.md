@@ -4,6 +4,7 @@
 
 ## 当前研究
 
+- **[研究完整性审计：已验证什么、缺什么、下一步先做什么](research/midi-keyboards/research-audit-2026-10-24.md)**
 - **[MIDI 键盘横向测评：各维度优缺点、其他产品落选理由](research/midi-keyboards/comparative-review-2026-10.md)**
 - **[当前第一版研究短名单（优先读）](research/midi-keyboards/shortlist.md)**
 - [MIDI 键盘候选名单](research/midi-keyboards/candidates.md)
