@@ -14,7 +14,11 @@
 
 ## 中文视频核查进度
 
-已使用用户授权的本地 Chrome 核实 [B 站候选视频 BV 链接与可访问信息](bilibili-source-triage.md)。例如垢教授的 [Launchkey MK4 使用分享](https://www.bilibili.com/video/BV1fhwqePELp/) 的作者简介明确说琴键手感不合心意、遗憾没有推子。这是作者主观观点，**未完整观看视频**，当前 B 站非登录浏览器仅提示试看 30 秒。所有尚未完整看的视频仍按「待复核」处理。
+已使用用户授权的本地 Chrome 核实 [B 站候选视频 BV 链接与可访问信息](bilibili-source-triage.md)。例如垢教授的 [Launchkey MK4 使用分享](https://www.bilibili.com/video/BV1fhwqePELp/) 的作者简介明确说琴键手感不合心意、遗憾没有推子。这是作者主观观点，**视频早期未完整观看**；用户随后已经自行登录，取得该视频及另外三期的完整自动字幕，见详细记录。没有实际观看或分析视觉画面的部分仍保持「待复核」。
+
+## 2026-10-24 最新状态
+
+候选已经汇总为 [第一版研究短名单](shortlist.md)，并新增 [DAW 原厂集成核查](daw-fl-cubase.md) 与 [次级候选用户反馈](review-secondary-candidates.md)。B 站已由用户本人登录，授权页面成功获取三条以上测评的视频全程自动字幕并按时间码归纳。**只读取自动字幕和公开视频内容，尚未逐字人工听写、测量声音**。本轮 Desktop Commander 稍后离线，未新增视频内容，详细可靠性限制仍然生效。
 
 ## 总体发现
 
