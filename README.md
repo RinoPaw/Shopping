@@ -4,6 +4,7 @@
 
 ## 当前研究
 
+- **[当前第一版研究短名单（优先读）](research/midi-keyboards/shortlist.md)**
 - [MIDI 键盘候选名单](research/midi-keyboards/candidates.md)
 - [测评渠道与证据标准](research/midi-keyboards/review-plan.md)
 - [已核查的测评证据与候选状态](research/midi-keyboards/review-findings.md)
@@ -11,6 +12,8 @@
 - [B 站中文测评索引及访问状态](research/midi-keyboards/bilibili-source-triage.md)
 - [Launchkey 37 MK4：两份使用体验及时间码](research/midi-keyboards/review-launchkey-37-mk4-bilibili.md)
 - [MiniLab 37：两份中文测评及时间码](research/midi-keyboards/review-minilab-37-bilibili.md)
+- [第二梯队候选及用户长期反馈](research/midi-keyboards/review-secondary-candidates.md)
+- [FL Studio / Cubase 控制脚本与映射支持](research/midi-keyboards/daw-fl-cubase.md)
 
 ## 工作顺序
 
