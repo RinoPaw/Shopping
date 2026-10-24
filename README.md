@@ -8,6 +8,7 @@
 - [测评渠道与证据标准](research/midi-keyboards/review-plan.md)
 - [已核查的测评证据与候选状态](research/midi-keyboards/review-findings.md)
 - [实际琴键、MIDI 和 DAW 的可复测测试方案](research/midi-keyboards/test-protocol.md)
+- [B 站中文测评索引及访问状态](research/midi-keyboards/bilibili-source-triage.md)
 
 ## 工作顺序
 
