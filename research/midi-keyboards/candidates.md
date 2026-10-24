@@ -34,6 +34,17 @@
 | Korg microKEY2-37 | 37 | **565 mm**（官方） | Natural Touch mini | 更偏向简单演奏输入、传统弯音/调制轮；缺少大量现场控制部件 |
 | Nektar Impact LX Mini | 25 | **390 mm**（官方） | Mini keys | 体积极小，DAW 控制丰富；25 键跨度少于 37 键 |
 
+## C 类：扩展检索发现的跨品类候选（2026-10-24）
+
+| 型号 | 键数 | 官方宽度 | 类型 | 处理 |
+|---|---:|---:|---|---|
+| **Arturia KeyStep Pro** | 37 | **589 mm** | Slim keys + 触后，4 轨音序与 MIDI/CV 硬件控制 | **符合上限，只余 6 mm**；偏硬件和多轨音序，不列普通 DAW 首选 |
+| **Arturia AstroLab 37** | 37 | **515 mm** | Slim keys + 触后、内置音源的独立舞台合成器 | 满足尺寸，但与“单纯 MIDI 控制器”是不同设备品类，可作高端混合型备选 |
+| **IK Multimedia iRig Keys 2** | 37 | **518 mm**（授权代理资料） | Mini keys、移动端/电脑通用控制器 | 旧款便携备选，优先级低；官方尺寸待核 |
+| **IK Multimedia iRig Keys 2 Pro** | 37 | **605 mm**（授权代理资料） | 全尺寸琴键的控制器 | **不满足** 595 mm 硬限制，直接排除 |
+
+来源：[KeyStep Pro 原厂 589 mm](https://www.arturia.com/products/hybrid-synths/keystep-pro/details)；[AstroLab 37 原厂 515 mm](https://www.arturia.com/products/hardware-synths/astrolab/astrolab-37)；[IK 厂商型号对照](https://www.ikmultimedia.com/products/irigkeys2/index.php?p=versions)；[iRig Keys 2 / Pro 尺寸（授权代理）](https://www.yutron.com.hk/product-page/irig-keys-2)。这些型号**不改变目前的主短名单**，留作范围完整性审计。
+
 上述型号均满足或有希望满足硬条件；列入不等于推荐购买。键床、力度、软件体验与兼容性仍需测评证据。
 
 ## 原始规格（优先）
