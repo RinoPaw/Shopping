@@ -2,7 +2,7 @@
 
 更新：2026-10-24
 
-**最新筛选结果优先看 [shortlist.md](shortlist.md)**：目前 3 款优先试弹 + 2 款条件保留；此文件继续保留全量候选供追溯。
+**最新评价先读 [完整横向测评](comparative-review-2026-10.md)，再读 [shortlist.md](shortlist.md)**。当前最匹配用户需求的主候选为 MiniLab 37、Launchkey 37 MK4；AKAI Plus II 因最新官方 DAW 脚本信息提高了复核优先级。此文件保留全量候选供追溯。
 
 ## 使用约束
 
@@ -67,11 +67,11 @@
 2. **FLkey 已更新：** 2026 年款为 FLkey 37 MK2，别把 2022 年左右的旧型号与它混淆。
 3. **不能凭名称判键盘尺寸：** MiniLab 37 的 slim-key、Launchkey 37 的全尺寸、Launchkey Mini 37 的 mini-key 分属不同键床布局。
 4. **最终 DAW 未定：** 不能仅凭某平台生态集成优势就提前锁死选型；需要确认 FL Studio 与 Cubase 的真实操作。
-5. **暂不纳入价格比较。** 只有完成第一轮测评、对不匹配型号做出排除之后，才建立平台报价表。
+5. **价格阶段已启动（2026-10-24）**：目前只对 MiniLab 37、Launchkey 37 MK4 等有足够评测证据的候选调查四站。混合 SKU 最低价、优惠价与实际支付价分开记录；仍未下单。
 
 ## 初轮测评结论
 
-已形成 [3 款优先试弹、2 款条件保留的短名单](shortlist.md)：MiniLab 37、Launchkey 37 MK4、KeyStep 37 mk2 优先；FLkey 2 37 和 Launchkey Mini 37 MK4 按 DAW 与空间需求保留。见 [次级候选反馈](review-secondary-candidates.md)、[FL Studio/Cubase 实际映射资料](daw-fl-cubase.md)。AKAI 新品和 SMK-37 Pro 暂在观察名单，**不比较价格**。
+已更新 [短名单](shortlist.md) 及 [逐维横评](comparative-review-2026-10.md)：MiniLab 37 与 Launchkey 37 MK4 是核心 DAW 控制器，KeyStep 37 mk2 / FLkey 2 37 按特定功能保留。AKAI 二代因确认有 FL26/Cubase15 专用映射，已提高到重点观察。SMK-37 Pro 需要 V016 固件与连奏验收。**两个主候选已开始比价，购物账户未变更**。
 
 ## 下一步
 
