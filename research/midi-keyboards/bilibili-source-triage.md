@@ -21,6 +21,10 @@
 | Launchkey MK4 | [垢教授：功能很多，也略有遗憾](https://www.bilibili.com/video/BV1fhwqePELp/) | 15:22 | 视频详情与 UP 主简介已核，演示内容待看 |
 | Launchkey MK4 | [贾逸可：全国首测](https://www.bilibili.com/video/BV1894zeWEXC/) | 09:28 | 搜索页已核 |
 
+## 2026-10-24 登录后进度
+
+用户已自行登录 B 站；已将测评视频播放器静音（muted=true、volume=0）。B 站官方播放器 API 可返回 AI 字幕和章节；现已读取垢教授本期完整自动字幕，整理成[带时间码的详细使用记录](review-launchkey-37-mk4-bilibili.md)。有关其他视频的观看状态仍维持待查。注意自动字幕术语错字，不应未经核实逐字引用。
+
 ## 已经读到的作者直接观点
 
 垢教授《功能很多，也略有遗憾——Launchkey MK4》，2025-01-19，视频描述：
