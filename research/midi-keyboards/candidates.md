@@ -18,7 +18,7 @@
 | Novation Launchkey 37 MK4 | 37 | **557 mm** | 全尺寸合成器键 | 在宽度上限内保留全尺寸键、16 pads、跨 DAW 集成 | 桌面深度 251 mm、键床/旋钮手感、映射流程 |
 | Novation Launchkey Mini 37 MK4 | 37 | **477.8 mm** | Mini keys | 较小桌面占用；16 pads、和弦/音阶/琶音工具 | 迷你琴键演奏体验、旋钮与力度控制 |
 | Novation FLkey 37 **MK2** | 37 | **557 mm** | 全尺寸合成器键 | 专为 FL Studio 的 Channel Rack、Mixer 等控制 | 如果选择 Cubase 是否还有吸引力；切勿混用旧 FLkey 测评 |
-| Arturia KeyStep 37 **mk2** | 37 | **547 mm** | Slim-keys，触后 | 自带音序器/琶音器、MIDI/CV 接口 | 单纯电脑 DAW 编曲时额外功能是否闲置；键床/软件映射 |
+| Arturia KeyStep 37 **mk2** | 37 | **547–550 mm（官网页面不一致）** | Slim-keys，触后 | 自带音序器/琶音器、MIDI/CV 接口 | 单纯电脑 DAW 编曲时额外功能是否闲置；键床/软件映射 |
 | Akai MPK Mini Plus **II** | 37 | **493 mm** | Mini keys | 2026-10-22 刚上市；彩屏、改良键床、DAW 映射 | 新品缺乏长期使用数据；上市与渠道情况；与初代明确区分 |
 | M-VAVE SMK-37 Pro | 37 | **458 mm** | 力度感应键 | 蓝牙/USB-C、16 pads、推子、低桌面占用 | 琴键与打击垫一致性、无线延迟/断连、驱动及固件稳定性 |
 
@@ -36,10 +36,10 @@
 
 ## 原始规格（优先）
 
-- [Arturia MiniLab 37](https://www.arturia.com/products/hybrid-synths/minilab-37/overview)（503 × 183 × 54 mm，网页以高×宽×深排列）
+- [Arturia MiniLab 37](https://www.arturia.com/products/hybrid-synths/minilab-37/overview)（机身宽度 503 mm；详细尺寸以当前官方规格表为准）
 - [Novation Launchkey 系列规格表](https://novationmusic.com/launchkey)（Launchkey 37 MK4 557 mm / Mini 37 MK4 477.8 mm）
 - [Novation FLkey 37 MK2](https://novationmusic.com/products/flkey-37)（557 mm；留意 MK2）
-- [Arturia KeyStep 37 mk2](https://www.arturia.com/products/hybrid-synths/keystep-mk2/keystep-37-mk2)（官网详细产品页 547 mm；其他商店页面有 550 mm 的旧/冲突信息，留待查证）
+- [Arturia KeyStep 37 mk2](https://www.arturia.com/products/hybrid-synths/keystep-mk2/keystep-37-mk2)（官方产品详细页标宽 547 mm、官方商店页标宽 550 mm，数值存在冲突，均小于 595 mm）
 - [Akai MPK Mini Plus II](https://www.akaipro.com/mpk-mini-plus-ii/)（493 mm；[官方代际对照](https://support.akaipro.com/en/support/solutions/articles/69000884506-mpk-mini-plus-ii-frequently-asked-questions)）
 - [Akai MPK Mini Plus（初代）](https://www.akaipro.com/mpk-mini-plus/)（451.1 mm）
 - [M-VAVE SMK-37 Pro](https://www.cuvave.com/product?id=smk-37-pro)（458 mm）
@@ -55,6 +55,10 @@
 3. **不能凭名称判键盘尺寸：** MiniLab 37 的 slim-key、Launchkey 37 的全尺寸、Launchkey Mini 37 的 mini-key 分属不同键床布局。
 4. **最终 DAW 未定：** 不能仅凭某平台生态集成优势就提前锁死选型；需要确认 FL Studio 与 Cubase 的真实操作。
 5. **暂不纳入价格比较。** 只有完成第一轮测评、对不匹配型号做出排除之后，才建立平台报价表。
+
+## 初轮测评结论
+
+请先阅读 [review-findings.md](review-findings.md)。优先实测 MiniLab 37 / Launchkey 37 MK4 / Launchkey Mini 37 MK4 的琴键与 DAW 工作流；FLkey 2 37、KeyStep 37 mk2、AKAI MPK Mini Plus II、SMK-37 Pro 暂按用途和缺陷证据保留，**暂不比较价格**。
 
 ## 下一步
 
